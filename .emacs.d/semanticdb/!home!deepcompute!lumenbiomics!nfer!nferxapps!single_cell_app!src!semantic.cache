@@ -1,0 +1,24 @@
+;; Object semanticdb-project-database-file-156767edd1f4
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156767edd1f4"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156767edd200"
+      :major-mode js-mode
+      :tags nil
+      :file "App.js"
+      :pointmax 823
+      :fsize 822
+      :lastmodtime '(24161 7432 142804 322000)
+      :unmatched-syntax '((VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 42 . 48) (VARIABLE 49 . 55) (VARIABLE 56 . 60) (STRING 61 . 78) (VARIABLE 79 . 85) (BRACE_BLOCK 86 . 96) (VARIABLE 97 . 101) (STRING 102 . 116) (VARIABLE 117 . 123) (BRACE_BLOCK 124 . 175) (VARIABLE 176 . 180) (STRING 181 . 196) (VARIABLE 198 . 203) (VARIABLE 204 . 207) (VARIABLE 208 . 215) (VARIABLE 216 . 225) (BRACE_BLOCK 226 . 802) (VARIABLE 804 . 810) (VARIABLE 811 . 818) (VARIABLE 819 . 822) ($EOI 823 . 823)))
+    (semanticdb-table "semanticdb-table-156767cd0d28"
+      :major-mode js-mode
+      :tags nil
+      :file "Config.js"
+      :pointmax 155
+      :fsize 154
+      :lastmodtime '(24161 7432 142804 322000)
+      :unmatched-syntax nil))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

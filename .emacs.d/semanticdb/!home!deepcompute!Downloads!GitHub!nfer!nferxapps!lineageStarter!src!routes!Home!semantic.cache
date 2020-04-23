@@ -1,0 +1,22 @@
+;; Object semanticdb-project-database-file-155d453b3ba4
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-155d453b3ba4"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-155d453ac498"
+      :major-mode js-mode
+      :tags 
+        '( ("treeFromRow" function (:arguments 
+              ( ("row" variable nil (reparse-symbol FormalParameterList) [3319 3322])
+                ("selectionOptions" variable nil (reparse-symbol FormalParameterList) [3324 3340]))              ) nil [3298 4184])
+            ("getUserSessionID" function nil nil [4192 4315])
+            ("getSelectionOptions" function nil nil [4323 4902])
+            ("getTableData" function nil nil [4909 5076]))          
+      :file "HomeRouteContents.js"
+      :pointmax 8430
+      :fsize 8429
+      :lastmodtime '(24186 27977 755209 463000)
+      :unmatched-syntax '((PAREN_BLOCK 8399 . 8429) (VARIABLE 5078 . 5083) (VARIABLE 5084 . 5101) (VARIABLE 5102 . 5109) (VARIABLE 5110 . 5119) (BRACE_BLOCK 5120 . 8364) (VARIABLE 8366 . 8372) (VARIABLE 8373 . 8380) (VARIABLE 8381 . 8391) (PAREN_BLOCK 8391 . 8399) (VARIABLE 1474 . 1486) (BRACK_BLOCK 1489 . 3296) (PAREN_BLOCK 606 . 1141) (VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 42 . 48) (BRACE_BLOCK 49 . 63) (VARIABLE 64 . 68) (STRING 69 . 95) (VARIABLE 96 . 102) (BRACE_BLOCK 103 . 263) (VARIABLE 264 . 268) (STRING 269 . 284) (VARIABLE 285 . 291) (VARIABLE 292 . 305) (VARIABLE 306 . 310) (STRING 311 . 351) (VARIABLE 352 . 358) (BRACE_BLOCK 359 . 371) (VARIABLE 372 . 376) (STRING 377 . 395) (VARIABLE 396 . 402) (BRACE_BLOCK 403 . 413) (VARIABLE 414 . 418) (STRING 419 . 433) (VARIABLE 434 . 440) (VARIABLE 441 . 446) (VARIABLE 447 . 451) (STRING 452 . 477) (VARIABLE 478 . 484) (BRACE_BLOCK 485 . 501) (VARIABLE 502 . 506) (STRING 507 . 527) (VARIABLE 528 . 534) (VARIABLE 535 . 540) (VARIABLE 541 . 545) (STRING 546 . 553) (VARIABLE 554 . 560) (VARIABLE 561 . 567) (VARIABLE 568 . 572) (STRING 573 . 581) (VARIABLE 582 . 587) (VARIABLE 588 . 594) (GREATER_THAN 604 . 605))))
+  :file "!home!deepcompute!Downloads!GitHub!nfer!nferxapps!lineageStarter!src!routes!Home!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,199 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Apr 22 21:18:42 2020
+;; Desktop file format version 208
+;; Emacs version 28.0.50
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24224 46258 197975 499000) (desktop . "208") "deepcompute@aiyer-servers.nferx.com" nil nil ((((minibuffer . t) (tty-type . "screen-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (cursor-color . "white") (foreground-color . "unspecified-fg") (background-color . "unspecified-bg") (font . "tty") (height . 35) (width . 100) (modeline . t) (unsplittable) (menu-bar-lines . 1) (tab-bar-lines . 0) (frameset--id . "DF50-0ED4-FC84-15E7") (frameset--mini t) (tabs (current-tab (name . "COMMIT_EDITMSG") (explicit-name)))) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 2) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 8) (min-pixel-width . 10) (min-pixel-height-ignore . 4) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 2) (min-pixel-width-safe . 2)) vc (pixel-width . 100) (pixel-height . 34) (total-width . 100) (total-height . 34) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 100) (pixel-height . 17) (total-width . 100) (total-height . 17) (normal-height . 0.5) (normal-width . 1.0) (buffer "QueryConstructor.js" (selected . t) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 12572) (start . 12324)) (prev-buffers ("QueryConstructor.js" 27008 27083) ("styles.css" 698 736))) (leaf (last . t) (pixel-width . 100) (pixel-height . 17) (total-width . 100) (total-height . 17) (normal-height . 0.5) (normal-width . 1.0) (buffer "QueryConstructor.js" (selected) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 4926) (start . 4861)) (prev-buffers ("QueryConstructor.js" 4861 4926) ("magit-diff: nfer" 1 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(#("fold" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("import" 0 6 (isearch-regexp-function nil isearch-case-fold-search t)) #("pretty" 0 6 (isearch-regexp-function nil isearch-case-fold-search t)) #("update" 0 6 (isearch-regexp-function nil isearch-case-fold-search t)) #("updateCohort" 0 12 (isearch-regexp-function nil isearch-case-fold-search nil)) #("componentDid" 0 12 (isearch-regexp-function nil isearch-case-fold-search nil)) #("Dropcompo" 0 4 (isearch-regexp-function nil isearch-case-fold-search nil) 4 9 (isearch-regexp-function nil isearch-case-fold-search nil)) #("Drop" 0 4 (isearch-regexp-function nil isearch-case-fold-search nil)) #("Dropd" 0 5 (isearch-regexp-function nil isearch-case-fold-search nil)) #("Displa" 0 6 (isearch-regexp-function nil isearch-case-fold-search nil)) #("cohen" 0 5 (isearch-regexp-function nil isearch-case-fold-search t)) #("calculateFol" 0 12 (isearch-regexp-function nil isearch-case-fold-search nil)) #("Mean CP10K" 0 10 (isearch-case-fold-search nil isearch-regexp-function nil)) #("toFixed" 0 7 (isearch-regexp-function nil isearch-case-fold-search nil)) #("width" 0 5 (isearch-regexp-function nil isearch-case-fold-search t)) #("max-wid" 0 7 (isearch-regexp-function nil isearch-case-fold-search t))))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/QueryConstructor/styles.css" "~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/node_modules/react-dropdown-tree-select/dist/styles.css" "~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/node_modules/nferx-core-ui/config/webpackDevServer.config.js" "~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/node_modules/react-dropdown-tree-select/dist/styles.css" "~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/QueryConstructor/QueryConstructor.css" "~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/QueryConstructor/styles.css" "~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/QueryConstructor/QueryConstructor.css" "~/Downloads/GitHub/AntigenFilter/selectionTree.json" "~/Downloads/GitHub/AntigenFilter/selectionTreeGenerator.go" "~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/SearchPanel/SearchPanel.js" "~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/routes/Results/ContentRootLayout/ContentRootLayout.js" "~/Downloads/GitHub/AntigenFilter/38428824-7d24-11ea-83f2-b42e9947f81b.csv" "~/Downloads/GitHub/AntigenFilter/e91d7e52-7d23-11ea-83f2-b42e9947f81b.csv" "~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/QueryConstructor/QueryConstructor.js" "~/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/QueryConstructor/selectionTree.json" "~/Downloads/GitHub/AntigenFilter/selectionOptions.csv" "~/Downloads/GitHub/AntigenFilter/200412_input_g.csv" "~/Downloads/GitHub/AntigenFilter/makeSelectionOptions.R" "~/Downloads/GitHub/AntigenFilter/inputGToRDS.R" "~/Downloads/GitHub/AntigenFilter/plumber.R" "~/Downloads/GitHub/AntigenFilter/foldChangeCalculator.R"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/deepcompute/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/QueryConstructor/QueryConstructor.js"
+  "QueryConstructor.js"
+  'rjsx-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  12572
+  '(1877 nil)
+  nil
+  nil
+  '((buffer-display-time 24224 44526 905828 499000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1764 1746 1513 1764 1503 1503 6791 1502 18851 9856 25952 25952 25952 25952 25952 3552))))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/QueryConstructor/styles.css"
+  "styles.css"
+  'css-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  799
+  '(736 nil)
+  nil
+  nil
+  '((buffer-display-time 24223 26034 377475 182000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (2626 2854 736 5 5 5 5 5 5 5 5 5 5 5 5 5))))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/QueryConstructor/QueryConstructor.css"
+  "QueryConstructor.css"
+  'css-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  1348
+  '(1348 nil)
+  nil
+  nil
+  '((buffer-display-time 24220 51439 652728 694000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (8 598 1))))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/Downloads/GitHub/AntigenFilter/foldChangeCalculator.R"
+  "foldChangeCalculator.R"
+  'fundamental-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  171
+  '(171 nil)
+  nil
+  nil
+  '((buffer-display-time 24218 14659 465146 919000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (1342 932 66 1645 1280 1218 1029 1002 821))))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/lumenbiomics/nfer/nferxapps/lineageGenes/ui/node_modules/nferx-core-ui/config/webpackDevServer.config.js"
+  "webpackDevServer.config.js"
+  'js-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  3621
+  '(3621 nil)
+  nil
+  nil
+  '((buffer-display-time 24216 30592 955646 327000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (3617))))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/Downloads/GitHub/AntigenFilter/selectionTreeGenerator.go"
+  "selectionTreeGenerator.go"
+  'go-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  2909
+  '(2440 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-display-time 24215 39311 845119 984000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (1540 3105 1334 1038 1365 1607 4313 3958))))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/QueryConstructor/selectionTree.json"
+  "selectionTree.json"
+  'js-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  383237
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 24215 39144 499888 223000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/Downloads/GitHub/AntigenFilter/selectionTree.json"
+  "selectionTree.json"
+  'js-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  2610
+  '(2610 nil)
+  nil
+  nil
+  '((buffer-display-time 24215 23213 210809 296000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (363 189))))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/Downloads/GitHub/AntigenFilter/selectionOptions.csv"
+  "selectionOptions.csv"
+  'fundamental-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24215 22232 117528 541000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/Downloads/GitHub/AntigenFilter/e91d7e52-7d23-11ea-83f2-b42e9947f81b.csv"
+  "e91d7e52-7d23-11ea-83f2-b42e9947f81b.csv"
+  'fundamental-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  287
+  '(nil nil)
+  t
+  nil
+  '((buffer-display-time 24215 30246 95526 80000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/components/SearchPanel/SearchPanel.js"
+  "SearchPanel.js"
+  'rjsx-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  780
+  '(958 nil)
+  nil
+  nil
+  '((buffer-display-time 24215 30756 227818 883000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/lumenbiomics/nfer/nferxapps/lineageGenes/ui/src/routes/Results/ContentRootLayout/ContentRootLayout.js"
+  "ContentRootLayout.js"
+  'js-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  471
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24215 39311 113466 600000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/Downloads/GitHub/AntigenFilter/plumber.R"
+  "plumber.R"
+  'fundamental-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  3934
+  '(8326 nil)
+  nil
+  nil
+  '((buffer-display-time 24215 39310 459929 129000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (3934 7568 6076 8683 7560 4992 7042 6928 6074 6074 8070 6397 8655 8417 8753 7555))))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/Downloads/GitHub/AntigenFilter/makeSelectionOptions.R"
+  "makeSelectionOptions.R"
+  'fundamental-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  1117
+  '(1117 nil)
+  nil
+  nil
+  '((buffer-display-time 24211 48968 439520 905000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (196 1478 1478 1478))))
+
+(desktop-create-buffer 208
+  "/home/deepcompute/Downloads/GitHub/AntigenFilter/inputGToRDS.R"
+  "inputGToRDS.R"
+  'fundamental-mode
+  '(wakatime-mode undo-tree-mode global-auto-revert-mode magit-file-mode)
+  91
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24211 47810 314516 451000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+

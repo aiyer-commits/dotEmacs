@@ -1,0 +1,18 @@
+;; Object semanticdb-project-database-file-155d453d3300
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-155d453d3300"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-155d453750e0"
+      :major-mode rjsx-mode
+      :tags 
+        '( ("postTissueGroupDeslected" function nil nil [1377 1415])
+            ("postTissueGroupSelected" function nil nil [1417 1454]))          
+      :file "ClusterFilter.js"
+      :pointmax 3619
+      :fsize 3618
+      :lastmodtime '(24186 27977 755209 463000)
+      :unmatched-syntax '((VARIABLE 1456 . 1461) (VARIABLE 1462 . 1475) (VARIABLE 1476 . 1483) (VARIABLE 1484 . 1493) (BRACE_BLOCK 1494 . 3588) (VARIABLE 3590 . 3596) (VARIABLE 3597 . 3604) (VARIABLE 3605 . 3618) ($EOI 3619 . 3619))))
+  :file "!home!deepcompute!Downloads!GitHub!nfer!nferxapps!lineageStarter!src!components!Filters!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

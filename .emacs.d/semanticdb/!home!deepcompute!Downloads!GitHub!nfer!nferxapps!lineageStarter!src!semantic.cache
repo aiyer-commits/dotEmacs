@@ -1,0 +1,24 @@
+;; Object semanticdb-project-database-file-1584335d8174
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-1584335d8174"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-1584335d8180"
+      :major-mode js-mode
+      :tags nil
+      :file "App.js"
+      :pointmax 1129
+      :fsize 1128
+      :lastmodtime '(24186 27977 755209 463000)
+      :unmatched-syntax '((VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 42 . 48) (VARIABLE 49 . 55) (VARIABLE 56 . 60) (STRING 61 . 78) (VARIABLE 79 . 85) (BRACE_BLOCK 86 . 96) (VARIABLE 97 . 101) (STRING 102 . 116) (VARIABLE 117 . 123) (BRACE_BLOCK 124 . 201) (VARIABLE 202 . 206) (STRING 207 . 222) (VARIABLE 224 . 229) (VARIABLE 230 . 233) (VARIABLE 234 . 241) (VARIABLE 242 . 251) (BRACE_BLOCK 252 . 1108) (VARIABLE 1110 . 1116) (VARIABLE 1117 . 1124) (VARIABLE 1125 . 1128) ($EOI 1129 . 1129)))
+    (semanticdb-table "semanticdb-table-158433204cc8"
+      :major-mode js-mode
+      :tags nil
+      :file "Config.js"
+      :pointmax 148
+      :fsize 147
+      :lastmodtime '(24186 27977 755209 463000)
+      :unmatched-syntax nil))
+  :file "!home!deepcompute!Downloads!GitHub!nfer!nferxapps!lineageStarter!src!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

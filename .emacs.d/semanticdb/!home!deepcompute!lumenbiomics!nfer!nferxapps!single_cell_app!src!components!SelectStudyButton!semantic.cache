@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file-156768255a7c
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156768255a7c"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156768256c84"
+      :major-mode rjsx-mode
+      :tags nil
+      :file "SelectStudyButton.js"
+      :pointmax 9543
+      :fsize 9548
+      :lastmodtime '(24161 7432 150804 174000)
+      :unmatched-syntax '((VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 43 . 49) (BRACE_BLOCK 50 . 206) (VARIABLE 207 . 211) (STRING 212 . 227) (VARIABLE 229 . 235) (BRACE_BLOCK 236 . 246) (VARIABLE 247 . 251) (STRING 252 . 262) (VARIABLE 264 . 270) (BRACE_BLOCK 271 . 305) (VARIABLE 306 . 310) (STRING 311 . 330) (VARIABLE 332 . 338) (BRACE_BLOCK 339 . 353) (VARIABLE 354 . 358) (STRING 359 . 385) (VARIABLE 387 . 393) (VARIABLE 394 . 395) (VARIABLE 396 . 400) (STRING 401 . 409) (VARIABLE 411 . 417) (VARIABLE 418 . 421) (VARIABLE 422 . 426) (STRING 427 . 438) (VARIABLE 440 . 446) (VARIABLE 447 . 459) (VARIABLE 460 . 464) (STRING 465 . 494) (VARIABLE 496 . 502) (BRACE_BLOCK 503 . 518) (VARIABLE 519 . 523) (STRING 524 . 556) (VARIABLE 559 . 564) (VARIABLE 565 . 582) (VARIABLE 593 . 596) (VARIABLE 597 . 609) (VARIABLE 616 . 621) (VARIABLE 622 . 639) (VARIABLE 640 . 647) (VARIABLE 648 . 657) (BRACE_BLOCK 658 . 9476) (VARIABLE 9478 . 9484) (VARIABLE 9485 . 9492) (VARIABLE 9493 . 9502) (PAREN_BLOCK 9502 . 9541))))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!components!SelectStudyButton!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

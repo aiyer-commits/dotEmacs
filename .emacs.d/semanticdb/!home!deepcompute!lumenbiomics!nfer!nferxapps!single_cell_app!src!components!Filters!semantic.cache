@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file-156768209f9c
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156768209f9c"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-1567682a1a98"
+      :major-mode rjsx-mode
+      :tags nil
+      :file "TissueFilter.js"
+      :pointmax 10292
+      :fsize 10291
+      :lastmodtime '(24161 7432 150804 174000)
+      :unmatched-syntax '((VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 43 . 49) (BRACE_BLOCK 50 . 121) (VARIABLE 122 . 126) (STRING 127 . 142) (VARIABLE 144 . 150) (BRACE_BLOCK 151 . 165) (VARIABLE 166 . 170) (STRING 171 . 197) (VARIABLE 199 . 205) (BRACE_BLOCK 206 . 232) (VARIABLE 233 . 237) (STRING 238 . 257) (VARIABLE 259 . 265) (BRACE_BLOCK 266 . 300) (VARIABLE 301 . 305) (STRING 306 . 338) (VARIABLE 340 . 346) (VARIABLE 347 . 359) (VARIABLE 360 . 364) (STRING 365 . 389) (VARIABLE 391 . 397) (VARIABLE 398 . 406) (VARIABLE 407 . 411) (STRING 412 . 424) (VARIABLE 426 . 432) (VARIABLE 433 . 436) (VARIABLE 437 . 441) (STRING 442 . 453) (VARIABLE 455 . 461) (VARIABLE 462 . 481) (VARIABLE 482 . 486) (STRING 487 . 548) (VARIABLE 588 . 591) (VARIABLE 592 . 604) (VARIABLE 611 . 616) (VARIABLE 617 . 623) (BRACE_BLOCK 626 . 2431) (SEMICOLON 2431 . 2432) (VARIABLE 2434 . 2439) (VARIABLE 2440 . 2452) (VARIABLE 2453 . 2460) (VARIABLE 2461 . 2470) (BRACE_BLOCK 2471 . 10230) (VARIABLE 10232 . 10238) (VARIABLE 10239 . 10246) (VARIABLE 10247 . 10256) (PAREN_BLOCK 10256 . 10290))))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!components!Filters!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

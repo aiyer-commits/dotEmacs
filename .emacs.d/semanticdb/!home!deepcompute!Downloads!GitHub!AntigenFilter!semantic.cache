@@ -1,0 +1,72 @@
+;; Object semanticdb-project-database-file-1557defcf8fc
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-1557defcf8fc"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-1557defca5bc"
+      :major-mode js-mode
+      :tags nil
+      :file "tableData.json"
+      :pointmax 3517591
+      :fsize 3517590
+      :lastmodtime '(24145 6181 712498 71000)
+      :unmatched-syntax '((BRACK_BLOCK 1 . 3517591)))
+    (semanticdb-table "semanticdb-table-1557defda4c8"
+      :major-mode js-mode
+      :tags nil
+      :file "data2.json"
+      :pointmax 29466
+      :fsize 29541
+      :lastmodtime '(24199 12922 570129 901000)
+      :unmatched-syntax '((BRACK_BLOCK 1 . 29465)))
+    (semanticdb-table "semanticdb-table-1557defda4e8"
+      :major-mode js-mode
+      :tags nil
+      :file "data.json"
+      :pointmax 35201
+      :fsize 35276
+      :lastmodtime '(24199 11514 64155 199000)
+      :unmatched-syntax '((BRACK_BLOCK 1 . 35200)))
+    (semanticdb-table "semanticdb-table-1557defaed58"
+      :major-mode js-mode
+      :tags nil
+      :file "selectionTreeNode.json"
+      :pointmax 58
+      :fsize 57
+      :lastmodtime '(24199 46871 924073 371000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table-1557defaed78"
+      :major-mode js-mode
+      :tags nil
+      :file "selectionTreeNode2.json"
+      :pointmax 43
+      :fsize 42
+      :lastmodtime '(24199 13491 747633 405000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table-1557def7e8fc"
+      :major-mode js-mode
+      :tags nil
+      :file "selectionTree.json"
+      :pointmax 232776
+      :fsize 232775
+      :lastmodtime '(24215 21737 226051 534000)
+      :unmatched-syntax '((BRACK_BLOCK 1 . 232776)))
+    (semanticdb-table "semanticdb-table-1557def7e91c"
+      :major-mode js-mode
+      :tags nil
+      :file "selectionTreeNode3.json"
+      :pointmax 61
+      :fsize 60
+      :lastmodtime '(24199 55997 450871 585000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table-1557defcf8dc"
+      :major-mode js-mode
+      :tags nil
+      :file "selectionTree2.json"
+      :pointmax 103634
+      :fsize 103641
+      :lastmodtime '(24200 50288 451523 18000)
+      :unmatched-syntax '((BRACK_BLOCK 1 . 103634) (BRACK_BLOCK 1 . 103628))))
+  :file "!home!deepcompute!Downloads!GitHub!AntigenFilter!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

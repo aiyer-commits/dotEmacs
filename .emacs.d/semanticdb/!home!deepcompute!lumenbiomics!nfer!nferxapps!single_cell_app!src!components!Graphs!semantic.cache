@@ -1,0 +1,18 @@
+;; Object semanticdb-project-database-file-156767e3c714
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156767e3c714"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156767e3c720"
+      :major-mode rjsx-mode
+      :tags 
+        '( ("CanvasJS" variable (:default-value "CanvasJSReact") nil [147 185])
+            ("CanvasJSChart" variable (:default-value "CanvasJSReact") nil [186 234]))          
+      :file "CanvasGraph.js"
+      :pointmax 883
+      :fsize 882
+      :lastmodtime '(24179 38839 258521 694000)
+      :unmatched-syntax nil))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!components!Graphs!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file-155ed7e7f07c
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-155ed7e7f07c"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-155ed7eb6674"
+      :major-mode js-mode
+      :tags nil
+      :file "index.js"
+      :pointmax 11102
+      :fsize 11101
+      :lastmodtime '(24190 10634 38819 664000)
+      :unmatched-syntax '((VARIABLE 326 . 335) (VARIABLE 336 . 340) (STRING 341 . 353) (VARIABLE 354 . 360) (VARIABLE 361 . 366) (BRACE_BLOCK 368 . 381) (VARIABLE 382 . 386) (STRING 387 . 394) (VARIABLE 396 . 402) (BRACE_BLOCK 403 . 440) (VARIABLE 441 . 445) (STRING 446 . 455) (VARIABLE 456 . 462) (VARIABLE 463 . 468) (VARIABLE 469 . 473) (STRING 474 . 483) (VARIABLE 484 . 490) (VARIABLE 491 . 495) (VARIABLE 496 . 500) (STRING 501 . 509) (VARIABLE 510 . 516) (VARIABLE 517 . 524) (VARIABLE 525 . 529) (STRING 530 . 541) (VARIABLE 542 . 548) (VARIABLE 549 . 553) (VARIABLE 554 . 558) (STRING 559 . 567) (VARIABLE 568 . 574) (VARIABLE 575 . 586) (VARIABLE 587 . 591) (STRING 592 . 608) (VARIABLE 609 . 615) (VARIABLE 616 . 634) (VARIABLE 635 . 639) (STRING 640 . 675) (VARIABLE 677 . 683) (STRING 684 . 697) (VARIABLE 698 . 704) (BRACE_BLOCK 705 . 721) (VARIABLE 722 . 726) (STRING 727 . 735) (VARIABLE 737 . 742) (VARIABLE 743 . 761) (VARIABLE 762 . 769) (VARIABLE 770 . 779) (BRACE_BLOCK 780 . 11066) (VARIABLE 11068 . 11074) (VARIABLE 11075 . 11082) (VARIABLE 11083 . 11101) ($EOI 11102 . 11102))))
+  :file "!home!deepcompute!Downloads!GitHub!react-dropdown-tree-select!src!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

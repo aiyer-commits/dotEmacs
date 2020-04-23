@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file-156767b30258
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156767b30258"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-15676827883c"
+      :major-mode js-mode
+      :tags nil
+      :file "StudyMaterial.js"
+      :pointmax 13668
+      :fsize 13667
+      :lastmodtime '(24161 7432 154804 99000)
+      :unmatched-syntax '((SEMICOLON 1829 . 1830) (VARIABLE 1832 . 1837) (VARIABLE 1838 . 1851) (VARIABLE 1852 . 1859) (VARIABLE 1860 . 1869) (BRACE_BLOCK 1870 . 13297) (VARIABLE 13361 . 13367) (VARIABLE 13368 . 13375) (VARIABLE 13376 . 13385) (PAREN_BLOCK 13385 . 13666) (VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 43 . 49) (BRACE_BLOCK 50 . 78) (VARIABLE 79 . 83) (STRING 84 . 103) (VARIABLE 105 . 111) (BRACE_BLOCK 112 . 229) (VARIABLE 230 . 234) (STRING 235 . 250) (VARIABLE 252 . 258) (BRACE_BLOCK 259 . 273) (VARIABLE 274 . 278) (STRING 279 . 305) (VARIABLE 307 . 313) (BRACE_BLOCK 314 . 519) (VARIABLE 520 . 524) (STRING 525 . 546) (VARIABLE 548 . 554) (VARIABLE 555 . 559) (VARIABLE 560 . 564) (STRING 565 . 598) (VARIABLE 600 . 606) (VARIABLE 607 . 610) (VARIABLE 611 . 615) (STRING 616 . 630) (VARIABLE 632 . 638) (VARIABLE 639 . 651) (VARIABLE 652 . 656) (STRING 657 . 689) (VARIABLE 691 . 697) (VARIABLE 698 . 710) (VARIABLE 711 . 715) (STRING 716 . 761) (VARIABLE 763 . 769) (VARIABLE 770 . 779) (VARIABLE 780 . 784) (STRING 785 . 826) (VARIABLE 828 . 834) (BRACE_BLOCK 835 . 853) (VARIABLE 854 . 858) (STRING 859 . 897) (VARIABLE 899 . 905) (BRACE_BLOCK 906 . 916) (VARIABLE 917 . 921) (STRING 922 . 932) (VARIABLE 934 . 939) (VARIABLE 940 . 949) (VARIABLE 958 . 963) (GREATER_THAN 965 . 966))))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!routes!SingleCell!StudyMaterial!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

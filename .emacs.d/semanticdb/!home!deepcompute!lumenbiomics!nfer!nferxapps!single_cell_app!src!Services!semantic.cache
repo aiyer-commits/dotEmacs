@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file-156767b2d010
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156767b2d010"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156768254164"
+      :major-mode js-mode
+      :tags nil
+      :file "QueryServies.js"
+      :pointmax 7465
+      :fsize 7465
+      :lastmodtime '(24161 7432 146804 247000)
+      :unmatched-syntax nil))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!Services!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

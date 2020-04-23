@@ -1,0 +1,24 @@
+;; Object semanticdb-project-database-file-156cc557daa8
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156cc557daa8"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156cc559f64c"
+      :major-mode js-mode
+      :tags nil
+      :file "ResultsRoute.js"
+      :pointmax 353
+      :fsize 352
+      :lastmodtime '(24179 40238 813081 206000)
+      :unmatched-syntax '((VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 42 . 48) (BRACE_BLOCK 49 . 58) (VARIABLE 59 . 63) (STRING 64 . 82) (VARIABLE 83 . 89) (VARIABLE 90 . 110) (VARIABLE 111 . 115) (STRING 116 . 140) (VARIABLE 142 . 147) (VARIABLE 148 . 160) (VARIABLE 161 . 168) (VARIABLE 169 . 178) (BRACE_BLOCK 179 . 323) (VARIABLE 325 . 331) (VARIABLE 332 . 339) (VARIABLE 340 . 352) ($EOI 353 . 353)))
+    (semanticdb-table "semanticdb-table-156cc55b8eb0"
+      :major-mode js-mode
+      :tags nil
+      :file "ResultsRouteContents.js"
+      :pointmax 1864
+      :fsize 1863
+      :lastmodtime '(24179 40238 813081 206000)
+      :unmatched-syntax nil))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!lineageGenes!ui!src!routes!Results!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

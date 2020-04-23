@@ -1,0 +1,24 @@
+;; Object semanticdb-project-database-file-156767cc3914
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156767cc3914"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156767cc74fc"
+      :major-mode js-mode
+      :tags nil
+      :file "canvasjs.react.js"
+      :pointmax 1674
+      :fsize 1720
+      :lastmodtime '(24161 7432 146804 247000)
+      :unmatched-syntax '((COLON 110 . 111) (VARIABLE 73 . 81) (punctuation 99 . 100) (VAR 31 . 34) (PAREN_BLOCK 53 . 71) (PAREN_BLOCK 20 . 29)))
+    (semanticdb-table "semanticdb-table-156767ea443c"
+      :major-mode js-mode
+      :tags nil
+      :file "canvasjs.min.js"
+      :pointmax 458488
+      :fsize 458487
+      :lastmodtime '(24161 7432 146804 247000)
+      :unmatched-syntax nil))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!chartlibs!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

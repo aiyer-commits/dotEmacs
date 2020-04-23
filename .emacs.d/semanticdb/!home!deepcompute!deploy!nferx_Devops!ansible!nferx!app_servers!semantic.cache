@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file-157ae3c10520
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-157ae3c10520"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-157ae3bf7c04"
+      :major-mode js-mode
+      :tags nil
+      :file "dev_app_servers.json"
+      :pointmax 13853
+      :fsize 13852
+      :lastmodtime '(24184 44782 357624 765000)
+      :unmatched-syntax nil))
+  :file "!home!deepcompute!deploy!nferx_Devops!ansible!nferx!app_servers!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

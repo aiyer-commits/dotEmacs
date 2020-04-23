@@ -1,0 +1,24 @@
+;; Object semanticdb-project-database-file-156767b673b4
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156767b673b4"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156767b673c0"
+      :major-mode js-mode
+      :tags nil
+      :file "HomeRoute.js"
+      :pointmax 1640
+      :fsize 1639
+      :lastmodtime '(24161 7447 750514 170000)
+      :unmatched-syntax '((VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 43 . 49) (BRACE_BLOCK 50 . 69) (VARIABLE 70 . 74) (STRING 75 . 93) (VARIABLE 95 . 101) (BRACE_BLOCK 102 . 116) (VARIABLE 117 . 121) (STRING 122 . 136) (VARIABLE 138 . 144) (VARIABLE 145 . 162) (VARIABLE 163 . 167) (STRING 168 . 189) (VARIABLE 191 . 197) (VARIABLE 198 . 202) (VARIABLE 203 . 207) (STRING 208 . 228) (VARIABLE 230 . 235) (VARIABLE 236 . 245) (VARIABLE 246 . 253) (VARIABLE 254 . 263) (BRACE_BLOCK 264 . 1600) (VARIABLE 1602 . 1608) (VARIABLE 1609 . 1616) (VARIABLE 1617 . 1627) (PAREN_BLOCK 1627 . 1638)))
+    (semanticdb-table "semanticdb-table-156767ec0670"
+      :major-mode js-mode
+      :tags nil
+      :file "HomeRouteContents.js"
+      :pointmax 3383
+      :fsize 3382
+      :lastmodtime '(24161 7447 750514 170000)
+      :unmatched-syntax '((PAREN_BLOCK 3351 . 3381) (VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 43 . 49) (BRACE_BLOCK 50 . 64) (VARIABLE 65 . 69) (STRING 70 . 96) (VARIABLE 98 . 104) (BRACE_BLOCK 105 . 181) (VARIABLE 182 . 186) (STRING 187 . 202) (VARIABLE 204 . 210) (BRACE_BLOCK 211 . 223) (VARIABLE 224 . 228) (STRING 229 . 247) (VARIABLE 249 . 255) (BRACE_BLOCK 256 . 266) (VARIABLE 267 . 271) (STRING 272 . 286) (VARIABLE 288 . 294) (BRACE_BLOCK 295 . 321) (VARIABLE 322 . 326) (STRING 327 . 346) (VARIABLE 348 . 354) (BRACE_BLOCK 355 . 380) (VARIABLE 381 . 385) (STRING 386 . 406) (VARIABLE 408 . 414) (VARIABLE 415 . 418) (VARIABLE 419 . 423) (STRING 424 . 435) (VARIABLE 437 . 443) (VARIABLE 444 . 455) (VARIABLE 456 . 460) (STRING 461 . 515) (VARIABLE 517 . 523) (VARIABLE 524 . 536) (VARIABLE 537 . 541) (STRING 542 . 571) (VARIABLE 573 . 579) (BRACE_BLOCK 580 . 590) (VARIABLE 591 . 595) (STRING 596 . 606) (VARIABLE 608 . 614) (BRACE_BLOCK 615 . 628) (VARIABLE 629 . 633) (STRING 634 . 664) (VARIABLE 666 . 671) (VARIABLE 672 . 689) (VARIABLE 690 . 697) (VARIABLE 698 . 707) (BRACE_BLOCK 708 . 3316) (VARIABLE 3318 . 3324) (VARIABLE 3325 . 3332) (VARIABLE 3333 . 3343) (PAREN_BLOCK 3343 . 3351))))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!routes!Home!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file-15676820898c
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-15676820898c"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-1567682271c8"
+      :major-mode js-mode
+      :tags nil
+      :file "DifferentialExpression.js"
+      :pointmax 191
+      :fsize 190
+      :lastmodtime '(24161 7447 750514 170000)
+      :unmatched-syntax nil))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!routes!SingleCell!DifferentialExpression!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,195 @@
+;; Object semanticdb-project-database-file-155c16b63ba0
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-155c16b63ba0"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-155c16b63bbc"
+      :major-mode js-mode
+      :tags 
+        '( ("request" function (:arguments 
+              ( ("options" variable nil (reparse-symbol FormalParameterList) [981 988]))              ) nil [964 2096])
+            ("getSearchParams" function (:arguments 
+              ( ("params" variable nil (reparse-symbol FormalParameterList) [2123 2129]))              ) nil [2098 2291])
+            ("getQueryString" function (:arguments 
+              ( ("params" variable nil (reparse-symbol FormalParameterList) [2317 2323]))              ) nil [2293 2397])
+            ("get" function (:arguments 
+              ( ("url" variable nil (reparse-symbol FormalParameterList) [2412 2415])
+                ("params" variable nil (reparse-symbol FormalParameterList) [2417 2423])
+                ("options" variable nil (reparse-symbol FormalParameterList) [2430 2437]))              ) nil [2399 2599])
+            ("post" function (:arguments 
+              ( ("url" variable nil (reparse-symbol FormalParameterList) [2641 2644])
+                ("params" variable nil (reparse-symbol FormalParameterList) [2646 2652])
+                ("options" variable nil (reparse-symbol FormalParameterList) [2659 2666]))              ) nil [2627 2832])
+            ("postFiles" function (:arguments 
+              ( ("url" variable nil (reparse-symbol FormalParameterList) [2887 2890])
+                ("files" variable nil (reparse-symbol FormalParameterList) [2892 2897])
+                ("options" variable nil (reparse-symbol FormalParameterList) [2899 2906]))              ) nil [2868 3327])
+            ("incrementalSearch" function (:arguments 
+              ( ("query" variable nil (reparse-symbol FormalParameterList) [3407 3412])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [3414 3420]))              ) nil [3380 3845])
+            ("getWikiPages" function (:arguments 
+              ( ("token" variable nil (reparse-symbol FormalParameterList) [3876 3881]))              ) nil [3854 4080])
+            ("convertLocalContextToWindowSize" function (:arguments 
+              ( ("localContext" variable nil (reparse-symbol FormalParameterList) [4123 4135]))              ) nil [4082 4237])
+            ("getDocumentGrowth" function (:arguments 
+              ( ("token" variable nil (reparse-symbol FormalParameterList) [4276 4281])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [4285 4291])
+                ("localContext" variable nil (reparse-symbol FormalParameterList) [4306 4318])
+                ("options" variable nil (reparse-symbol FormalParameterList) [4326 4333]))              ) nil [4246 4692])
+            ("getRelatedTokens" function (:arguments 
+              ( ("token" variable nil (reparse-symbol FormalParameterList) [4736 4741])
+                ("collection" variable nil (reparse-symbol FormalParameterList) [4745 4755])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [4759 4765])
+                ("time" variable nil (reparse-symbol FormalParameterList) [4780 4784]))              ) nil [4707 5591])
+            ("computeSignals" function nil nil [5606 6923])
+            ("getNeighborhood" function (:arguments 
+              ( ("token" variable nil (reparse-symbol FormalParameterList) [6963 6968])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [6970 6976]))              ) nil [6938 7646])
+            ("getAvailableCorpora" function nil nil [7661 7757])
+            ("getAvailableApps" function nil nil [7772 7979])
+            ("getEntityType" function (:arguments 
+              ( ("token" variable nil (reparse-symbol FormalParameterList) [8017 8022]))              ) nil [7994 8483])
+            ("authenticate" function (:arguments 
+              ( ("username" variable nil (reparse-symbol FormalParameterList) [8520 8528])
+                ("password" variable nil (reparse-symbol FormalParameterList) [8530 8538]))              ) nil [8498 8992])
+            ("forgotPassword" function (:arguments 
+              ( ("email" variable nil (reparse-symbol FormalParameterList) [9031 9036]))              ) nil [9007 9237])
+            ("resetPassword" function (:arguments 
+              ( ("key" variable nil (reparse-symbol FormalParameterList) [9275 9278])
+                ("password" variable nil (reparse-symbol FormalParameterList) [9280 9288]))              ) nil [9252 9487])
+            ("getEnrichmentList" function (:arguments 
+              ( ("tokens" variable nil (reparse-symbol FormalParameterList) [9529 9535])
+                ("collection" variable nil (reparse-symbol FormalParameterList) [9537 9547])
+                ("options" variable nil (reparse-symbol FormalParameterList) [9549 9556]))              ) nil [9502 10807])
+            ("getOneCollectionDetails" function (:arguments 
+              ( ("collectionId" variable nil (reparse-symbol FormalParameterList) [10974 10986]))              ) nil [10941 11326])
+            ("getCollectionDetails" function (:arguments 
+              ( ("collectionIds" variable nil (reparse-symbol FormalParameterList) [11371 11384]))              ) nil [11341 12012])
+            ("fetchDefaultCollectionIds" function nil nil [12134 12348])
+            ("fetchDefaultCollections" function nil nil [12363 12484])
+            ("getTokenOccurrences" function (:arguments 
+              ( ("tokenIds" variable nil (reparse-symbol FormalParameterList) [12521 12529]))              ) nil [12492 12775])
+            ("getDocumentCountsForCorpora" function (:arguments 
+              ( ("tokens" variable nil (reparse-symbol FormalParameterList) [12830 12836])
+                ("mustHaveTimeslices" variable nil (reparse-symbol FormalParameterList) [12840 12858])
+                ("false" variable nil (reparse-symbol FormalParameterList) [12861 12866])
+                ("localContext" variable nil (reparse-symbol FormalParameterList) [12870 12882])
+                ("options" variable nil (reparse-symbol FormalParameterList) [12890 12897]))              ) nil [12790 13862])
+            ("getRelatedSearches" function (:arguments 
+              ( ("synonyms" variable nil (reparse-symbol FormalParameterList) [13898 13906])
+                ("tokenId" variable nil (reparse-symbol FormalParameterList) [13908 13915]))              ) nil [13870 14411])
+            ("getTokenSynonyms" function (:arguments 
+              ( ("tokenId" variable nil (reparse-symbol FormalParameterList) [14452 14459]))              ) nil [14426 14912])
+            ("getSynonyms" function (:arguments 
+              ( ("token" variable nil (reparse-symbol FormalParameterList) [14948 14953]))              ) nil [14927 15114])
+            ("getTokenMisspellings" function (:arguments 
+              ( ("tokenId" variable nil (reparse-symbol FormalParameterList) [15159 15166]))              ) nil [15129 15559])
+            ("getFaersLink" function (:arguments 
+              ( ("tokenId" variable nil (reparse-symbol FormalParameterList) [15596 15603]))              ) nil [15574 15812])
+            ("getPrescriptionLink" function (:arguments 
+              ( ("tokenId" variable nil (reparse-symbol FormalParameterList) [15856 15863]))              ) nil [15827 16071])
+            ("bulkDisambiguate" function (:arguments 
+              ( ("searchToken" variable nil (reparse-symbol FormalParameterList) [16105 16116])
+                ("tokens" variable nil (reparse-symbol FormalParameterList) [16118 16124])
+                ("collectionId" variable nil (reparse-symbol FormalParameterList) [16126 16138]))              ) nil [16079 16366])
+            ("disambiguate" function (:arguments 
+              ( ("searchToken" variable nil (reparse-symbol FormalParameterList) [16534 16545])
+                ("token" variable nil (reparse-symbol FormalParameterList) [16547 16552])
+                ("collectionId" variable nil (reparse-symbol FormalParameterList) [16554 16566]))              ) nil [16512 18805])
+            ("saveCollection" function (:arguments 
+              ( ("tokens" variable nil (reparse-symbol FormalParameterList) [18844 18850])
+                ("title" variable nil (reparse-symbol FormalParameterList) [18852 18857])
+                ("group" variable nil (reparse-symbol FormalParameterList) [18859 18864]))              ) nil [18820 19254])
+            ("getGroupSuggestions" function (:arguments 
+              ( ("query" variable nil (reparse-symbol FormalParameterList) [19298 19303]))              ) nil [19269 19433])
+            ("getCollections" function (:arguments 
+              ( ("query" variable nil (reparse-symbol FormalParameterList) [19472 19477]))              ) nil [19448 19881])
+            ("parseArticles" function (:arguments 
+              ( ("articles" variable nil (reparse-symbol FormalParameterList) [19906 19914]))              ) nil [19883 20205])
+            ("getArticles" function (:arguments 
+              ( ("tokens" variable nil (reparse-symbol FormalParameterList) [20259 20265])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [20267 20273])
+                ("localContext" variable nil (reparse-symbol FormalParameterList) [20275 20287])
+                ("options" variable nil (reparse-symbol FormalParameterList) [20289 20296]))              ) nil [20238 23067])
+            ("getTokenMetaInfo" function (:arguments 
+              ( ("token" variable nil (reparse-symbol FormalParameterList) [23111 23116])
+                ("collections" variable nil (reparse-symbol FormalParameterList) [23120 23131]))              ) nil [23082 23421])
+            ("getOccurrences" function (:arguments 
+              ( ("token" variable nil (reparse-symbol FormalParameterList) [23460 23465])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [23467 23473]))              ) nil [23436 23600])
+            ("getAdjacencyOverTime" function (:arguments 
+              ( ("token1Id" variable nil (reparse-symbol FormalParameterList) [23645 23653])
+                ("token2Id" variable nil (reparse-symbol FormalParameterList) [23655 23663])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [23665 23671]))              ) nil [23615 23970])
+            ("getCosineDistanceDistribution" function (:arguments 
+              ( ("tokenId1" variable nil (reparse-symbol FormalParameterList) [24027 24035])
+                ("tokenId2" variable nil (reparse-symbol FormalParameterList) [24039 24047])
+                ("collectionId" variable nil (reparse-symbol FormalParameterList) [24051 24063])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [24067 24073])
+                ("high" variable nil (reparse-symbol FormalParameterList) [24077 24081])
+                ("timeslices" variable nil (reparse-symbol FormalParameterList) [24090 24100]))              ) nil [23985 24787])
+            ("getCompareParallel" function (:arguments 
+              ( ("token1" variable nil (reparse-symbol FormalParameterList) [24830 24836])
+                ("token2" variable nil (reparse-symbol FormalParameterList) [24838 24844])
+                ("server" variable nil (reparse-symbol FormalParameterList) [24846 24852])
+                ("years" variable nil (reparse-symbol FormalParameterList) [24854 24859]))              ) nil [24802 25133])
+            ("getSemanticAssociation" function (:arguments 
+              ( ("token1Id" variable nil (reparse-symbol FormalParameterList) [25183 25191])
+                ("token2Id" variable nil (reparse-symbol FormalParameterList) [25195 25203])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [25207 25213])
+                ("control" variable nil (reparse-symbol FormalParameterList) [25217 25224])
+                ("high" variable nil (reparse-symbol FormalParameterList) [25228 25232]))              ) nil [25148 25649])
+            ("getAdjacency" function (:arguments 
+              ( ("token1Id" variable nil (reparse-symbol FormalParameterList) [25686 25694])
+                ("token2Id" variable nil (reparse-symbol FormalParameterList) [25696 25704])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [25706 25712]))              ) nil [25664 25941])
+            ("getSignificance" function (:arguments 
+              ( ("token1Id" variable nil (reparse-symbol FormalParameterList) [25984 25992])
+                ("token2Id" variable nil (reparse-symbol FormalParameterList) [25996 26004])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [26008 26014])
+                ("control" variable nil (reparse-symbol FormalParameterList) [26029 26036]))              ) nil [25956 26300])
+            ("getCompareDetails" function (:arguments 
+              ( ("token1" variable nil (reparse-symbol FormalParameterList) [26342 26348])
+                ("token2" variable nil (reparse-symbol FormalParameterList) [26350 26356])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [26358 26364]))              ) nil [26315 26866])
+            ("getDocumentOccurrences" function (:arguments 
+              ( ("token1" variable nil (reparse-symbol FormalParameterList) [26913 26919])
+                ("token2" variable nil (reparse-symbol FormalParameterList) [26921 26927])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [26929 26935]))              ) nil [26881 27289])
+            ("getRecentSearches" function (:arguments 
+              ( ("app" variable nil (reparse-symbol FormalParameterList) [27331 27334]))              ) nil [27304 27538])
+            ("saveSearch" function (:arguments 
+              ( ("app" variable nil (reparse-symbol FormalParameterList) [27573 27576])
+                ("tokens" variable nil (reparse-symbol FormalParameterList) [27578 27584])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [27586 27592]))              ) nil [27553 27821])
+            ("getControlCollections" function (:arguments 
+              ( ("token" variable nil (reparse-symbol FormalParameterList) [27867 27872])
+                ("compare" variable nil (reparse-symbol FormalParameterList) [27874 27881])
+                ("false" variable nil (reparse-symbol FormalParameterList) [27884 27889]))              ) nil [27836 28340])
+            ("getAllCorpuses" function nil nil [28349 28432])
+            ("dynamicAdjacency" function (:arguments 
+              ( ("tokens" variable nil (reparse-symbol FormalParameterList) [28473 28479])
+                ("control" variable nil (reparse-symbol FormalParameterList) [28481 28488])
+                ("corpus" variable nil (reparse-symbol FormalParameterList) [28490 28496]))              ) nil [28447 28720])
+            ("approveLicense" function nil nil [28735 28800])
+            ("aeLabIncrementalSearch" function (:arguments 
+              ( ("query" variable nil (reparse-symbol FormalParameterList) [28917 28922]))              ) nil [28885 29140])
+            ("getTokenCollectionTokens" function (:arguments 
+              ( ("collectionId" variable nil (reparse-symbol FormalParameterList) [29228 29240]))              ) nil [29194 29353])
+            ("getCollectionTokens" function (:arguments 
+              ( ("collectionId" variable nil (reparse-symbol FormalParameterList) [29391 29403]))              ) nil [29362 29516])
+            ("logout" function nil nil [29525 29659])
+            ("getGeneSuggestions" function (:arguments 
+              ( ("input" variable nil (reparse-symbol FormalParameterList) [29699 29704])
+                ("localThreshold" variable nil (reparse-symbol FormalParameterList) [29708 29722])
+                ("globalThreshold" variable nil (reparse-symbol FormalParameterList) [29730 29745]))              ) nil [29668 29968])
+            ("isGene" function (:arguments 
+              ( ("input" variable nil (reparse-symbol FormalParameterList) [29999 30004]))              ) nil [29983 30317]))          
+      :file "Api.js"
+      :pointmax 30318
+      :fsize 30317
+      :lastmodtime '(24144 28074 331247 929000)
+      :unmatched-syntax '((NUMBER 29748 . 29751) (ASSIGN_SYMBOL 29746 . 29747) (NUMBER 29725 . 29726) (ASSIGN_SYMBOL 29723 . 29724) (STRING 28499 . 28507) (ASSIGN_SYMBOL 28497 . 28498) (ASSIGN_SYMBOL 27882 . 27883) (STRING 27595 . 27603) (ASSIGN_SYMBOL 27593 . 27594) (STRING 26367 . 26375) (ASSIGN_SYMBOL 26365 . 26366) (STRING 26017 . 26025) (ASSIGN_SYMBOL 26015 . 26016) (NUMBER 25235 . 25237) (ASSIGN_SYMBOL 25233 . 25234) (NUMBER 24084 . 24086) (ASSIGN_SYMBOL 24082 . 24083) (STRING 23476 . 23484) (ASSIGN_SYMBOL 23474 . 23475) (BRACK_BLOCK 23134 . 23197) (ASSIGN_SYMBOL 23132 . 23133) (BRACE_BLOCK 20299 . 20301) (ASSIGN_SYMBOL 20297 . 20298) (NUMBER 12885 . 12886) (ASSIGN_SYMBOL 12883 . 12884) (ASSIGN_SYMBOL 12859 . 12860) (VARIABLE 12014 . 12019) (VARIABLE 12020 . 12027) (BRACK_BLOCK 12030 . 12119) (BRACE_BLOCK 9559 . 9561) (ASSIGN_SYMBOL 9557 . 9558) (STRING 6979 . 6987) (ASSIGN_SYMBOL 6977 . 6978) (BRACE_BLOCK 5630 . 5806) (STRING 4768 . 4776) (ASSIGN_SYMBOL 4766 . 4767) (NUMBER 4321 . 4322) (ASSIGN_SYMBOL 4319 . 4320) (STRING 4294 . 4302) (ASSIGN_SYMBOL 4292 . 4293) (STRING 3423 . 3431) (ASSIGN_SYMBOL 3421 . 3422) (BRACE_BLOCK 2909 . 2911) (ASSIGN_SYMBOL 2907 . 2908) (BRACE_BLOCK 2669 . 2671) (ASSIGN_SYMBOL 2667 . 2668) (BRACE_BLOCK 2655 . 2657) (ASSIGN_SYMBOL 2653 . 2654) (BRACE_BLOCK 2440 . 2442) (ASSIGN_SYMBOL 2438 . 2439) (BRACE_BLOCK 2426 . 2428) (ASSIGN_SYMBOL 2424 . 2425) (VARIABLE 924 . 943) (BRACK_BLOCK 946 . 956) (PAREN_BLOCK 614 . 916) (VARIABLE 8 . 13) (VARIABLE 14 . 18) (STRING 19 . 26) (VARIABLE 27 . 33) (VARIABLE 34 . 39) (VARIABLE 40 . 44) (STRING 45 . 54) (VARIABLE 55 . 61) (VARIABLE 62 . 63) (VARIABLE 64 . 68) (STRING 69 . 77) (VARIABLE 78 . 84) (BRACE_BLOCK 85 . 112) (VARIABLE 113 . 117) (STRING 118 . 131) (VARIABLE 132 . 138) (BRACE_BLOCK 139 . 156) (VARIABLE 157 . 161) (STRING 162 . 180) (VARIABLE 181 . 187) (VARIABLE 188 . 203) (VARIABLE 204 . 208) (STRING 209 . 242) (VARIABLE 243 . 249) (BRACE_BLOCK 250 . 270) (VARIABLE 271 . 275) (STRING 276 . 286) (VARIABLE 287 . 293) (BRACE_BLOCK 294 . 305) (VARIABLE 306 . 310) (STRING 311 . 330) (VARIABLE 331 . 337) (BRACE_BLOCK 338 . 361) (VARIABLE 362 . 366) (STRING 367 . 401) (VARIABLE 402 . 408) (BRACE_BLOCK 409 . 422) (VARIABLE 423 . 427) (STRING 428 . 448) (VARIABLE 450 . 455) (VARIABLE 456 . 471) (BRACE_BLOCK 474 . 502) (VARIABLE 504 . 509) (VARIABLE 510 . 523) (PAREN_BLOCK 538 . 574))))
+  :file "!home!deepcompute!lumenbiomics!nferx-core-ui!src!utils!Api!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,24 @@
+;; Object semanticdb-project-database-file-1584335d08f0
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-1584335d08f0"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-158433241c90"
+      :major-mode js-mode
+      :tags nil
+      :file "proxy.config.js"
+      :pointmax 657
+      :fsize 656
+      :lastmodtime '(24186 27977 755209 463000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table-1584335a14dc"
+      :major-mode js-mode
+      :tags nil
+      :file "package.json"
+      :pointmax 889
+      :fsize 888
+      :lastmodtime '(24186 27977 755209 463000)
+      :unmatched-syntax nil))
+  :file "!home!deepcompute!Downloads!GitHub!nfer!nferxapps!lineageStarter!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file-1557df388dd4
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-1557df388dd4"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-1557df388db4"
+      :major-mode js-mode
+      :tags nil
+      :file "ContentRootLayout.js"
+      :pointmax 778
+      :fsize 777
+      :lastmodtime '(24179 40238 813081 206000)
+      :unmatched-syntax '((PAREN_BLOCK 758 . 777) (VARIABLE 332 . 349) (VARIABLE 350 . 357) (VARIABLE 358 . 367) (BRACE_BLOCK 368 . 723) (VARIABLE 725 . 731) (VARIABLE 732 . 739) (VARIABLE 740 . 750) (PAREN_BLOCK 750 . 758) (PAREN_BLOCK 320 . 324) (VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 42 . 48) (VARIABLE 49 . 58) (VARIABLE 59 . 63) (STRING 64 . 76) (VARIABLE 77 . 83) (VARIABLE 84 . 85) (VARIABLE 86 . 90) (STRING 91 . 99) (VARIABLE 100 . 106) (BRACE_BLOCK 107 . 121) (VARIABLE 122 . 126) (STRING 127 . 153) (VARIABLE 154 . 160) (BRACE_BLOCK 161 . 187) (VARIABLE 188 . 192) (STRING 193 . 208) (VARIABLE 209 . 215) (BRACE_BLOCK 216 . 231) (VARIABLE 232 . 236) (STRING 237 . 258) (VARIABLE 259 . 265) (VARIABLE 266 . 275) (VARIABLE 276 . 280) (STRING 281 . 294) (VARIABLE 296 . 301) (VARIABLE 302 . 308) (GREATER_THAN 318 . 319))))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!lineageGenes!ui!src!routes!Results!ContentRootLayout!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

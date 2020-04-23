@@ -1,0 +1,38 @@
+;; Object semanticdb-project-database-file-155d4541a0dc
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-155d4541a0dc"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-155d4541a0bc"
+      :major-mode rjsx-mode
+      :tags 
+        '( ("postClusterDeselected" function (:arguments 
+              ( ("clusterName" variable nil (reparse-symbol FormalParameterList) [241 252])
+                ("cohortName" variable nil (reparse-symbol FormalParameterList) [254 264]))              ) nil [210 446])
+            ("postClusterSelected" function (:arguments 
+              ( ("clusterName" variable nil (reparse-symbol FormalParameterList) [483 494])
+                ("cohortName" variable nil (reparse-symbol FormalParameterList) [496 506]))              ) nil [454 754]))          
+      :file "ClusterItem.js"
+      :pointmax 4224
+      :fsize 4223
+      :lastmodtime '(24187 28936 665023 206000)
+      :unmatched-syntax '((VARIABLE 756 . 761) (VARIABLE 762 . 773) (VARIABLE 774 . 781) (VARIABLE 782 . 791) (BRACE_BLOCK 792 . 4195) (VARIABLE 4197 . 4203) (VARIABLE 4204 . 4211) (VARIABLE 4212 . 4223) ($EOI 4224 . 4224)))
+    (semanticdb-table "semanticdb-table-155d4543a2d4"
+      :major-mode rjsx-mode
+      :tags nil
+      :file "TissueItem.js"
+      :pointmax 162
+      :fsize 161
+      :lastmodtime '(24186 27977 755209 463000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table-155d44fa9e1c"
+      :major-mode rjsx-mode
+      :tags nil
+      :file "TissueGroupItem.js"
+      :pointmax 138
+      :fsize 137
+      :lastmodtime '(24186 27977 755209 463000)
+      :unmatched-syntax '((VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 42 . 48) (BRACE_BLOCK 49 . 112) (VARIABLE 113 . 117) (STRING 118 . 137) ($EOI 138 . 138))))
+  :file "!home!deepcompute!Downloads!GitHub!nfer!nferxapps!lineageStarter!src!components!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

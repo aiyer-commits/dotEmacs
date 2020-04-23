@@ -1,0 +1,24 @@
+;; Object semanticdb-project-database-file-156767ebd448
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156767ebd448"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156767ebd464"
+      :major-mode js-mode
+      :tags nil
+      :file "TokenRoute.js"
+      :pointmax 433
+      :fsize 432
+      :lastmodtime '(24161 7432 154804 99000)
+      :unmatched-syntax '((VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 42 . 48) (BRACE_BLOCK 49 . 58) (VARIABLE 59 . 63) (STRING 64 . 82) (VARIABLE 83 . 89) (VARIABLE 90 . 108) (VARIABLE 109 . 113) (STRING 114 . 136) (VARIABLE 138 . 143) (VARIABLE 144 . 154) (VARIABLE 155 . 162) (VARIABLE 163 . 172) (BRACE_BLOCK 173 . 405) (VARIABLE 407 . 413) (VARIABLE 414 . 421) (VARIABLE 422 . 432) ($EOI 433 . 433)))
+    (semanticdb-table "semanticdb-table-156768271bf0"
+      :major-mode js-mode
+      :tags nil
+      :file "TokenRouteContents.js"
+      :pointmax 2096
+      :fsize 2095
+      :lastmodtime '(24161 7432 154804 99000)
+      :unmatched-syntax '((PAREN_BLOCK 2074 . 2094) (VARIABLE 574 . 579) (VARIABLE 580 . 598) (VARIABLE 599 . 606) (VARIABLE 607 . 616) (BRACE_BLOCK 617 . 2018) (VARIABLE 2020 . 2026) (VARIABLE 2027 . 2034) (VARIABLE 2035 . 2045) (PAREN_BLOCK 2045 . 2074) (PAREN_BLOCK 377 . 571) (VARIABLE 8 . 13) (BRACE_BLOCK 15 . 38) (VARIABLE 39 . 43) (STRING 44 . 51) (VARIABLE 53 . 59) (VARIABLE 60 . 69) (VARIABLE 70 . 74) (STRING 75 . 87) (VARIABLE 89 . 95) (BRACE_BLOCK 96 . 183) (VARIABLE 184 . 188) (STRING 189 . 204) (VARIABLE 206 . 212) (BRACE_BLOCK 213 . 227) (VARIABLE 228 . 232) (STRING 233 . 259) (VARIABLE 261 . 267) (BRACE_BLOCK 268 . 283) (VARIABLE 284 . 288) (STRING 289 . 307) (VARIABLE 309 . 315) (VARIABLE 316 . 320) (VARIABLE 321 . 325) (STRING 326 . 350) (VARIABLE 353 . 358) (VARIABLE 359 . 365) (GREATER_THAN 375 . 376))))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!routes!Token!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

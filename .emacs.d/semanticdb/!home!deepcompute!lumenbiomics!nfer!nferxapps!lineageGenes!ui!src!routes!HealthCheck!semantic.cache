@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file-156cc51a15c4
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156cc51a15c4"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156cc51a15d0"
+      :major-mode js-mode
+      :tags nil
+      :file "HealthCheckRoute.js"
+      :pointmax 275
+      :fsize 274
+      :lastmodtime '(24184 53880 559388 84000)
+      :unmatched-syntax '((VARIABLE 8 . 13) (BRACE_BLOCK 15 . 26) (VARIABLE 27 . 31) (STRING 32 . 39) (VARIABLE 40 . 46) (BRACE_BLOCK 47 . 56) (VARIABLE 57 . 61) (STRING 62 . 80) (VARIABLE 83 . 88) (VARIABLE 89 . 105) (VARIABLE 106 . 113) (VARIABLE 114 . 123) (BRACE_BLOCK 124 . 242) (VARIABLE 243 . 249) (VARIABLE 250 . 257) (VARIABLE 258 . 274) ($EOI 275 . 275) (VARIABLE 8 . 13) (BRACE_BLOCK 15 . 26) (VARIABLE 27 . 31) (STRING 32 . 39) (VARIABLE 40 . 46) (BRACE_BLOCK 47 . 56) (VARIABLE 57 . 61) (STRING 62 . 80) (VARIABLE 83 . 88) (VARIABLE 89 . 105) (VARIABLE 106 . 113) (VARIABLE 114 . 123) (BRACE_BLOCK 124 . 242) (VARIABLE 243 . 249) (VARIABLE 250 . 257) ($EOI 259 . 259) (VARIABLE 8 . 13) (BRACE_BLOCK 15 . 26) (VARIABLE 27 . 31) (STRING 32 . 39) (VARIABLE 40 . 46) (BRACE_BLOCK 47 . 56) (VARIABLE 57 . 61) (STRING 62 . 80) (VARIABLE 82 . 83) ($EOI 83 . 83))))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!lineageGenes!ui!src!routes!HealthCheck!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

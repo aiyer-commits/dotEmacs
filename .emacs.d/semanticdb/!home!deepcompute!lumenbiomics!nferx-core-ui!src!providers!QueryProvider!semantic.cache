@@ -1,0 +1,26 @@
+;; Object semanticdb-project-database-file-156767b2d6b4
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156767b2d6b4"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-1567682085c8"
+      :major-mode js-mode
+      :tags 
+        '( ("withQuery" function (:arguments 
+              ( ("WrappedComponent" variable nil (reparse-symbol FormalParameterList) [187 203]))              ) nil [168 498]))          
+      :file "withQuery.js"
+      :pointmax 499
+      :fsize 498
+      :lastmodtime '(24144 28074 331247 929000)
+      :unmatched-syntax nil)
+    (semanticdb-table "semanticdb-table-1567682671a0"
+      :major-mode js-mode
+      :tags nil
+      :file "QueryContext.js"
+      :pointmax 172
+      :fsize 171
+      :lastmodtime '(24144 28074 331247 929000)
+      :unmatched-syntax '((PAREN_BLOCK 78 . 82) (VARIABLE 8 . 13) (VARIABLE 14 . 18) (STRING 19 . 26) (VARIABLE 28 . 33) (BRACE_BLOCK 34 . 56) (ASSIGN_SYMBOL 57 . 58))))
+  :file "!home!deepcompute!lumenbiomics!nferx-core-ui!src!providers!QueryProvider!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

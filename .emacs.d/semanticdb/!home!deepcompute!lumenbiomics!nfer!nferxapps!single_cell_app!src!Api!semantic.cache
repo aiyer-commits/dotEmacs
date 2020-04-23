@@ -1,0 +1,18 @@
+;; Object semanticdb-project-database-file-156767f2e7dc
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156767f2e7dc"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156767b6656c"
+      :major-mode js-mode
+      :tags 
+        '( ("violinPlotDataTransformer" function (:arguments 
+              ( ("data" variable nil (reparse-symbol FormalParameterList) [8072 8076]))              ) nil [8037 10106]))          
+      :file "geneApi.js"
+      :pointmax 10107
+      :fsize 10106
+      :lastmodtime '(24161 7447 750514 170000)
+      :unmatched-syntax '((GREATER_THAN 185 . 186) (ASSIGN_SYMBOL 184 . 185) (BRACE_BLOCK 8 . 27) (VARIABLE 28 . 32) (STRING 33 . 48) (VARIABLE 50 . 56) (VARIABLE 57 . 69) (VARIABLE 70 . 74) (STRING 75 . 101) (VARIABLE 103 . 109) (VARIABLE 110 . 111) (VARIABLE 112 . 116) (STRING 117 . 125) (VARIABLE 128 . 133) (VARIABLE 134 . 143) (VARIABLE 164 . 169) (VARIABLE 170 . 178) (PAREN_BLOCK 181 . 183))))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!single_cell_app!src!Api!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

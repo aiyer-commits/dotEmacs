@@ -1,0 +1,16 @@
+;; Object semanticdb-project-database-file-1557df323340
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-1557df323340"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-1557df323320"
+      :major-mode rjsx-mode
+      :tags nil
+      :file "SearchPanel.js"
+      :pointmax 1041
+      :fsize 1040
+      :lastmodtime '(24179 40238 813081 206000)
+      :unmatched-syntax '((VARIABLE 8 . 13) (BRACE_BLOCK 15 . 28) (VARIABLE 29 . 33) (STRING 34 . 41) (VARIABLE 42 . 48) (VARIABLE 49 . 58) (VARIABLE 59 . 63) (STRING 64 . 76) (VARIABLE 77 . 83) (BRACE_BLOCK 84 . 156) (VARIABLE 157 . 161) (STRING 162 . 177) (VARIABLE 179 . 184) (VARIABLE 185 . 196) (VARIABLE 197 . 204) (VARIABLE 205 . 214) (BRACE_BLOCK 215 . 1001) (VARIABLE 1003 . 1009) (VARIABLE 1010 . 1017) (VARIABLE 1018 . 1027) (PAREN_BLOCK 1027 . 1040))))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!lineageGenes!ui!src!components!SearchPanel!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

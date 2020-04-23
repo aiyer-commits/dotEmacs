@@ -1,0 +1,2 @@
+;;; Generated package description from /home/deepcompute/.emacs.d/elpa/nnir-est-20180710.2103/nnir-est.el  -*- no-byte-compile: t -*-
+(define-package "nnir-est" "20180710.2103" "Gnus nnir interface for HyperEstraier" 'nil :commit "6d0d5c8e33f4e4ccbc22350324c0990d2676fb5a" :keywords '("mail") :authors '(("KAWABATA, Taichi <kawabata.taichi_at_gmail.com>")) :maintainer '("KAWABATA, Taichi <kawabata.taichi_at_gmail.com>") :url "https://github.com/kawabata/nnir-est")

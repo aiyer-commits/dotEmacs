@@ -1,0 +1,28 @@
+;; Object semanticdb-project-database-file-156acb611888
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "semanticdb-project-database-file-156acb611888"
+  :tables
+  (list
+    (semanticdb-table "semanticdb-table-156acb6118a4"
+      :major-mode rjsx-mode
+      :tags 
+        '( ("postTissueGroupDeslected" function nil nil [1377 1415])
+            ("postTissueGroupSelected" function nil nil [1417 1454]))          
+      :file "ClusterFilter.js"
+      :pointmax 3729
+      :fsize 3700
+      :lastmodtime '(24158 41019 854849 379000)
+      :unmatched-syntax '((VARIABLE 1456 . 1461) (VARIABLE 1462 . 1475) (VARIABLE 1476 . 1483) (VARIABLE 1484 . 1493) (BRACE_BLOCK 1494 . 3698) (VARIABLE 3700 . 3706) (VARIABLE 3707 . 3714) (VARIABLE 3715 . 3728) ($EOI 3729 . 3729) (VARIABLE 1456 . 1461) (VARIABLE 1462 . 1475) (VARIABLE 1476 . 1483) (VARIABLE 1484 . 1493) (BRACE_BLOCK 1494 . 3704) (VARIABLE 3706 . 3712) (VARIABLE 3713 . 3720) (VARIABLE 3721 . 3734) ($EOI 3735 . 3735) (VARIABLE 1456 . 1461) (VARIABLE 1462 . 1475) (VARIABLE 1476 . 1483) (VARIABLE 1484 . 1493) (BRACE_BLOCK 1494 . 3702) (VARIABLE 3704 . 3710) (VARIABLE 3711 . 3718) (VARIABLE 3719 . 3732) ($EOI 3733 . 3733) (VARIABLE 1456 . 1461) (VARIABLE 1462 . 1475) (VARIABLE 1476 . 1483) (VARIABLE 1484 . 1493) (BRACE_BLOCK 1494 . 3723) (VARIABLE 3725 . 3731) (VARIABLE 3732 . 3739) (VARIABLE 3740 . 3753) ($EOI 3754 . 3754) (VARIABLE 1456 . 1461) (VARIABLE 1462 . 1475) (VARIABLE 1476 . 1483) (VARIABLE 1484 . 1493) (BRACE_BLOCK 1494 . 3702) (VARIABLE 3704 . 3710) (VARIABLE 3711 . 3718) (VARIABLE 3719 . 3732) ($EOI 3733 . 3733) (VARIABLE 1456 . 1461) (VARIABLE 1462 . 1475) (VARIABLE 1476 . 1483) (VARIABLE 1484 . 1493) (BRACE_BLOCK 1494 . 3704) (VARIABLE 3706 . 3712) (VARIABLE 3713 . 3720) (VARIABLE 3721 . 3734) ($EOI 3735 . 3735) (VARIABLE 1456 . 1461) (VARIABLE 1462 . 1475) (VARIABLE 1476 . 1483) (VARIABLE 1484 . 1493) (BRACE_BLOCK 1494 . 3698) (VARIABLE 3700 . 3706) (VARIABLE 3707 . 3714) (VARIABLE 3715 . 3728) ($EOI 3729 . 3729) (VARIABLE 1456 . 1461) (VARIABLE 1462 . 1475) (VARIABLE 1476 . 1483) (VARIABLE 1484 . 1493) (BRACE_BLOCK 1494 . 3704) (VARIABLE 3706 . 3712) (VARIABLE 3713 . 3720) (VARIABLE 3721 . 3734) ($EOI 3735 . 3735)))
+    (semanticdb-table "semanticdb-table-156acb293a30"
+      :major-mode rjsx-mode
+      :tags 
+        '( ("postTissueGroupDeslected" function nil nil [1457 1495])
+            ("postTissueGroupSelected" function nil nil [1497 1534]))          
+      :file "ClusterFilter2.js"
+      :pointmax 3632
+      :fsize 3621
+      :lastmodtime '(24158 41019 854849 379000)
+      :unmatched-syntax '((VARIABLE 1536 . 1541) (VARIABLE 1542 . 1556) (VARIABLE 1557 . 1564) (VARIABLE 1565 . 1574) (BRACE_BLOCK 1575 . 3600) (VARIABLE 3602 . 3608) (VARIABLE 3609 . 3616) (VARIABLE 3617 . 3631) ($EOI 3632 . 3632) (VARIABLE 1536 . 1541) (VARIABLE 1542 . 1556) (VARIABLE 1557 . 1564) (VARIABLE 1565 . 1574) (BRACE_BLOCK 1575 . 3599) (VARIABLE 3601 . 3607) (VARIABLE 3608 . 3615) (VARIABLE 3616 . 3630) ($EOI 3631 . 3631))))
+  :file "!home!deepcompute!lumenbiomics!nfer!nferxapps!lineageStarter!src!components!Filters!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")
