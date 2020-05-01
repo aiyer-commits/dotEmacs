@@ -4,7 +4,6 @@
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
 (require 'package)
-(require 'multi-term)
 (add-to-list 'package-archives
              '("melpa" . "https://melpa.org/packages/"))
 (package-initialize)
@@ -20,10 +19,6 @@
 (require 'wakatime-mode)    
 (require 'org)
 (require 'evil)
-(require 'org-gcal)
-(setq org-gcal-client-id "569160350109-pv5l1sqjcvc7u7grr8ir3l8u7s6buamd.apps.googleusercontent.com"
-      org-gcal-client-secret "jgIPwNqcaKK5Esy6tXf6LEPa"
-      org-gcal-file-alist '(("aiyer@nference.net" . "~/schedule.org")))
 (evil-mode 1)
 (flymake-mode 1)
 (global-auto-revert-mode 1)
@@ -31,7 +26,6 @@
 (setq wakatime-api-key "92dfdbf5-5f3e-40e6-9090-e98bee1b3e38")
 (setq wakatime-cli-path "/usr/local/bin/wakatime")
 
-(setq multi-term-program "/bin/bash")
 (global-wakatime-mode)
 (dumb-jump-mode)
 (remove-hook 'flymake-diagnostic-functions 'flymake-proc-legacy-flymake)
@@ -45,7 +39,6 @@
        (proto (if no-ssl "http" "https")))
 
   (add-to-list 'load-path "~")
-  (load "rjsx-mode.el")
   
   (when no-ssl
     (warn "\
