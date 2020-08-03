@@ -16,7 +16,6 @@
   (package-install 'flymake))
 (unless (package-installed-p 'magit)
   (package-install 'magit))
-(require 'wakatime-mode)    
 (require 'org)
 (require 'evil)
 (evil-mode 1)
