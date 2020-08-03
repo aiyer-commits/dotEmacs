@@ -25,7 +25,6 @@
 (global-undo-tree-mode 1)
 (desktop-save-mode 1)
 
-(global-wakatime-mode)
 (dumb-jump-mode)
 (remove-hook 'flymake-diagnostic-functions 'flymake-proc-legacy-flymake)
 (define-key flymake-mode-map (kbd "M-n") 'flymake-goto-next-error)
