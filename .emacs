@@ -22,9 +22,9 @@
 (evil-mode 1)
 (flymake-mode 1)
 (global-auto-revert-mode 1)
+(global-display-line-numbers-mode 1)
+(global-undo-tree-mode 1)
 (desktop-save-mode 1)
-(setq wakatime-api-key "92dfdbf5-5f3e-40e6-9090-e98bee1b3e38")
-(setq wakatime-cli-path "/usr/local/bin/wakatime")
 
 (global-wakatime-mode)
 (dumb-jump-mode)
